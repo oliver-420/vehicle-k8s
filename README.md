@@ -1,4 +1,4 @@
-# vehicle2
+# vehicle-k8s
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
