@@ -1,0 +1,2 @@
+export GITHUB_ACTOR=oliver-420
+export GITHUB_TOKEN=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
